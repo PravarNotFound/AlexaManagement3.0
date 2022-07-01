@@ -96,8 +96,9 @@ PM_START_TEXT = """
 PMSTART_CHAT = (
     "[Gᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://te.legra.ph/file/36265b66579a2232394d3.jpg)",
     "[ᴅᴏɴ'ᴛ ᴅᴇꜱᴛʀᴏʏ ʏᴏᴜʀ ɢᴏᴀʟꜱ ꜰᴏʀ ꜱᴏᴍᴇ ʜᴏʟᴇꜱ](https://te.legra.ph/file/0b4fa225a165b65a30aee.jpg)",
+    "[Oʟɪᴠɪᴀ ɪꜱ ᴛʜᴇ ᴄᴜᴛᴇꜱᴛ](https://te.legra.ph/file/715902f8485e652a95df2.jpg)",
     "[ᴛᴜʀɴ ʏᴏᴜʀ ᴡᴏᴜɴᴅs ɪɴᴛᴏ ᴡɪsᴅᴏᴍ 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
-    "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ Oliva!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
+    "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ Oliva!!!!](https://te.legra.ph/file/d2ef019756186a39fc6e3.jpg)", )
 
 buttons = [
     [
