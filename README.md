@@ -7,14 +7,14 @@
   <a href="https://github.com/PravarNotFound/Rocks-Alexa-Official-Management/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/44870675794b9089a4fa8.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/TheNoobHacker"><img src="https://te.legra.ph/file/335b5894b0d75adc13d47.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/PravarNotFound/AlexaManagement3.0/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/PravarNotFound/AlexaManagement3.0"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/AlexaManagement3.0?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/PravarNotFound/AlexaManagement3.0/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/AlexaManagement3.0?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/PravarNotFound/AlexaManagement3.0/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/AlexaManagement3.0?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/PravarNotFound/AlexaManagement3.0/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/AlexaManagement3.0?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/PravarNotFound/OliviaBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/PravarNotFound/Oliviabot"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/AlexaManagement3.0?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/PravarNotFound/Oliviabot/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/AlexaManagement3.0?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/PravarNotFound/Oliviabot/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/AlexaManagement3.0?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/PravarNotFound/Oliviabot/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/AlexaManagement3.0?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
