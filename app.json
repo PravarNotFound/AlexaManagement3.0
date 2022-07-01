@@ -1,15 +1,15 @@
 {
        "name": "A Group Mangement Official Bot",
       "description": "A Powerful And Advanced Telegram Group Management Bot By PravarNotFound",
-      "logo": "https://telegra.ph/file/ed0dc3f88422d69d8dcf9.jpg",
+      "logo": "https://te.legra.ph/file/1e2f02bb20f4e99885e5a.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Alexa"
+         "Olivia"
       ],   
-   "repository": "https://github.com/PravarNotFound/AlexaManagement3.0",
+   "repository": "https://github.com/PravarNotFound/Oliviabot",
    "addons": [
       {
          "options": {
