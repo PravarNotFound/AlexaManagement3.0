@@ -119,7 +119,7 @@ buttons = [
                              url=f"https://t.me/TheZFed"),
                         ],
                        [
-                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ From", url="t.me/PravarNotFound"
+                           InlineKeyboardButton(text="♂️ Help", url="t.me/OliviaCuteBot?start=help"
          ),
     ],
 ]
