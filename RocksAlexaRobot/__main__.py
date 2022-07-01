@@ -143,7 +143,7 @@ HELP_STRINGS = """
 
 HELP_MSG = "ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴍᴀɴᴜ ɪɴ ʏᴏᴜʀ ᴘᴍ."
 DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ᴘʀᴇᴛᴛʏ [ᴏᴡɴᴇʀ](t.me/PravarNotFound)"""
-HELP_IMG= "https://te.legra.ph/file/97f1fe1c4371befa42420.jpg"
+HELP_IMG= "https://te.legra.ph/file/229ff8f944e537b628df5.jpg"
 GROUPSTART_IMG= ""
 
 PM_IMG = ( "https://te.legra.ph/file/099d93c566dad87cf7363.jpg",
