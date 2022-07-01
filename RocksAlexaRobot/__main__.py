@@ -112,7 +112,7 @@ buttons = [
                     [                  
                        InlineKeyboardButton(
                              text="🇮🇳 ᴏᴡɴᴇʀ",
-                             url=f"https://TheNoobHacker"),
+                             url=f"https://t.me/TheNoobHacker"),
                        InlineKeyboardButton(
                              text="⛔ ɴᴇᴛᴡᴏʀᴋ",
                              url=f"https://t.me/TheZFed"),
