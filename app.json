@@ -47,11 +47,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2042185317"
+         "value": "5548097102"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PravarNotFound"
+         "value": "Hckur"
       },
       "INFOPIC": {
          "description": "userinfo picture Show In Info.",
