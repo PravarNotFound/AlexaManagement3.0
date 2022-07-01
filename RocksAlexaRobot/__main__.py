@@ -114,11 +114,11 @@ buttons = [
                              text="🇮🇳 ᴏᴡɴᴇʀ",
                              url=f"https://t.me/TheNoobHacker"),
                        InlineKeyboardButton(
-                             text="⛔ ɴᴇᴛᴡᴏʀᴋ",
+                             text="⛔ Olivia Fed",
                              url=f"https://t.me/TheZFed"),
                         ],
                        [
-                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/PravarNotFound"
+                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ From", url="t.me/PravarNotFound"
          ),
     ],
 ]
@@ -353,7 +353,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [ᴅʀ ᴀsᴀᴅ ᴀʟɪ](t.me/PravarNotFound) *ᴀɴᴅ* [ʜᴀʀsʜɪᴛ sʜᴀʀᴍᴀ](t.me/Hckur)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
+                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [PRAVAR](t.me/PravarNotFound) *ᴀɴᴅ* [User](t.me/Hckur)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -713,7 +713,7 @@ def main():
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
                 "https://telegra.ph/file/36be820a8775f0bfc773e.jpg",
-                caption="「 ᴀʟᴇxᴀʀᴏʙᴏᴛ 」 ɪs ᴀʟɪᴠᴇ ✌️!\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ᴀɴᴅ @AsadSupport 🤏",
+                caption="「 OliviaBot 」 ɪs ᴀʟɪᴠᴇ ✌️!\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤️  🤏",
             )
         except Unauthorized:
             LOGGER.warning(
