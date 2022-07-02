@@ -46,7 +46,6 @@ pySmartDL
 validators
 pyrogram==1.4.12
 datetime
-aiohttp>=3.7.4
 asyncio
 pykeyboard==0.1.2
 Pillow>=4.2.0
