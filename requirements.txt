@@ -14,6 +14,7 @@ pynewtonmath
 spongemock
 zalgo-text
 geopy
+psutil
 jikanpy
 speedtest-cli
 coffeehouse
@@ -45,6 +46,7 @@ pySmartDL
 validators
 pyrogram==1.4.12
 datetime
+aiohttp>=3.7.4
 asyncio
 pykeyboard==0.1.2
 Pillow>=4.2.0
@@ -70,6 +72,7 @@ opencv-python-headless
 countryinfo==0.1.2
 secureme #encrypt
 aiofiles
+aiohttp>=2.2.5
 wget
 pymongo==3.11.0
 dnspython
@@ -81,4 +84,3 @@ werkzeug==2.0.3
 flag
 yt_dlp
 pendulum
-aiohttp>=3.7.4
