@@ -24,9 +24,9 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 9392361  # integer value, dont use ""
-    API_HASH = "1df0fc28a4e04bf14db1b9d1aa957f15"
-    TOKEN = "1616584987:AAGiKBL-7Q4mihWH03AGtyBjfDNdp23zJVc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    API_ID = 12581410  # integer value, dont use ""
+    API_HASH = "150997c7d6077320f71275ef4ad1ebe4"
+    TOKEN = "5426231440:AAFBfEZMhc-Wqq59PcpDPfRYfIU2d2MwTVA"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5548097102  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "hckur"
     STRING_SESSION = "1AZWarzQBuzNmmKAkp_jONwBy2j47tF1V7PLay5oT2D1hoOMGhps2ldnTSipGYzHoGvYYGzwhly2Db7vy6nt212qn-HjwDvQHr22oEFlnIfumabNOx_cCGKI3-wmBwDqEvruqGbUB0XlxjhQ5n5ntOzCZKOCEGFEIKIAuiMZQvKCgCvZNHxagLRwKLAzytsFeAmBDjfnRwEbmaboapETB-xnpC2JMWTcrmi6fxhljf5lnmPnhTK5YePg2VRp0-dURvuun_ecppdGsYWcjUPzpjzBWj_1wPc9HaEI52ppErvM7bmgcwanF_hdnWsw-Z0c1stPHJ7cfYDSKsRfhU3-Bc9dwg7Ky8rM="
@@ -45,7 +45,7 @@ class Config(object):
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
     BOT_USERNAME = "OliviaCuteBot"
-    MONGO_DB_URI = "mongodb+srv://AsadAli:AsadAli@cluster0.3ejv7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://Pravar123:standoff2@cluster0.7s4xy.mongodb.net/?retryWrites=true&w=majority"
     BOT_ID = "5426231440"
     
     DRAGONS = get_user_list('elevated_users.json', 'sudos')
