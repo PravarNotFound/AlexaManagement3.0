@@ -42,7 +42,7 @@ class Config(object):
     WEBHOOK = None
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
+    SPAMWATCH_API = "pzpO~zXWjQ4_DRNB02DOY0VhJ95mCbtYZvuqBOKmKGilFkYkgTTLSYXTw2q0OgQt"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
     BOT_USERNAME = "OliviaCuteBot"
     MONGO_DB_URI = "mongodb+srv://Pravar123:standoff2@cluster0.7s4xy.mongodb.net/?retryWrites=true&w=majority"
