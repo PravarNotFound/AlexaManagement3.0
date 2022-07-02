@@ -29,7 +29,7 @@ class Config(object):
     TOKEN = "5426231440:AAFBfEZMhc-Wqq59PcpDPfRYfIU2d2MwTVA"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5548097102  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "hckur"
-    STRING_SESSION = "1AZWarzkBu2L1VxbjeDpyTmjFzxfCTBVODC3Of64gsp4FltWsiGqytamCd_qDhjq-kBH7eFOdAAVl1T2hhSeuyv0Imn_OHSzItqar60oA9WKhnx87h7crO0HdUQPIOZQRERvGi5nfZS8nfpBMmEtdAZixHx-Q60aiwBDxnAZPb3sRePqNPJash6wbM-JpZo6egHvHFF1yHO3R6It271sJX1Am-Hl6W2YUaNB6kwS8Sj2KWovNFJnoHSaxw4aFrln37bCMB7Bsj7GXFngVkf6xd_0gvolXsHhSEajCzm0rjfL7BwlMKhSct8F3GcTOvLfWsdDHPN3OroPX3mgeklUIjTvdYa6VfLY="
+    STRING_SESSION = 1AZWarzkBu2L1VxbjeDpyTmjFzxfCTBVODC3Of64gsp4FltWsiGqytamCd_qDhjq-kBH7eFOdAAVl1T2hhSeuyv0Imn_OHSzItqar60oA9WKhnx87h7crO0HdUQPIOZQRERvGi5nfZS8nfpBMmEtdAZixHx-Q60aiwBDxnAZPb3sRePqNPJash6wbM-JpZo6egHvHFF1yHO3R6It271sJX1Am-Hl6W2YUaNB6kwS8Sj2KWovNFJnoHSaxw4aFrln37bCMB7Bsj7GXFngVkf6xd_0gvolXsHhSEajCzm0rjfL7BwlMKhSct8F3GcTOvLfWsdDHPN3OroPX3mgeklUIjTvdYa6VfLY=
     SUPPORT_CHAT = 'TheNoobHacker'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'TheNoobHacker' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001674647560  #Prints any new group the bot is added to, prints just the name and ID.
