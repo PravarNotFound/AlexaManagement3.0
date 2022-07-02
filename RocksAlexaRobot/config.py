@@ -29,6 +29,7 @@ class Config(object):
     TOKEN = "1616584987:AAGiKBL-7Q4mihWH03AGtyBjfDNdp23zJVc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5548097102  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "hckur"
+    STRING_SESSION = "1AZWarzQBuzNmmKAkp_jONwBy2j47tF1V7PLay5oT2D1hoOMGhps2ldnTSipGYzHoGvYYGzwhly2Db7vy6nt212qn-HjwDvQHr22oEFlnIfumabNOx_cCGKI3-wmBwDqEvruqGbUB0XlxjhQ5n5ntOzCZKOCEGFEIKIAuiMZQvKCgCvZNHxagLRwKLAzytsFeAmBDjfnRwEbmaboapETB-xnpC2JMWTcrmi6fxhljf5lnmPnhTK5YePg2VRp0-dURvuun_ecppdGsYWcjUPzpjzBWj_1wPc9HaEI52ppErvM7bmgcwanF_hdnWsw-Z0c1stPHJ7cfYDSKsRfhU3-Bc9dwg7Ky8rM="
     SUPPORT_CHAT = 'TheNoobHacker'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'TheNoobHacker' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001674647560  #Prints any new group the bot is added to, prints just the name and ID.
