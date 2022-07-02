@@ -10,7 +10,6 @@ import logging
 import os
 import sys
 import time
-import spamwatch
 from aiohttp import ClientSession
 from Python_ARQ import ARQ
 import telegram.ext as tg
