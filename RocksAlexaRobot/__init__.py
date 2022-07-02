@@ -7,6 +7,7 @@
 
 import asyncio
 import logging
+import spamwatch
 import os
 import sys
 import time
