@@ -9,6 +9,7 @@ import asyncio
 import logging
 import os
 import sys
+import spamwatch
 import time
 from aiohttp import ClientSession
 from Python_ARQ import ARQ
