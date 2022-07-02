@@ -82,3 +82,4 @@ werkzeug==2.0.3
 flag
 yt_dlp
 pendulum
+aiohttp>=3.7.4
