@@ -14,7 +14,6 @@ pynewtonmath
 spongemock
 zalgo-text
 geopy
-psutil
 jikanpy
 speedtest-cli
 coffeehouse
