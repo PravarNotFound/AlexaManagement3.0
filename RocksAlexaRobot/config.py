@@ -29,6 +29,7 @@ class Config(object):
     TOKEN = "1616584987:AAGiKBL-7Q4mihWH03AGtyBjfDNdp23zJVc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5548097102  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "hckur"
+    STRING_SESSION = ""
     SUPPORT_CHAT = 'TheNoobHacker'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'TheNoobHacker' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001674647560  #Prints any new group the bot is added to, prints just the name and ID.
@@ -73,6 +74,7 @@ class Config(object):
     AI_API_KEY = 'awoo'  #For chatbot, get one from https://coffeehouse.intellivoid.net/dashboard
     BL_CHATS = []  # List of groups that you want blacklisted.
     SPAMMERS = None
+
 
 
 class Production(Config):
